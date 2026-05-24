@@ -25,7 +25,7 @@ const MODEL_MAPPING = {
   'deepseek-v4-flash': 'nvidia/nemotron-3-nano-omni-30b-a3b-reasoning',
   'gpt-4': 'google/gemma-4-31b-it',
   'gpt-4-turbo': 'deepseek-ai/deepseek-v4-flash',
-  'gpt-4o': 'google/gemma-3n-e2b-it',
+  'gpt-4o': 'deepseek-ai/deepseek-v4-pro',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
